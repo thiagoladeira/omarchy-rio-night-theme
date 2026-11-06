@@ -7,7 +7,7 @@ street lamps as the accent color.
 > Tema escuro para o Omarchy inspirado nas noites do Rio de Janeiro: azul do céu
 > noturno com o âmbar dos postes como cor de destaque.
 
-![Rio Night wallpapers](preview-grid.jpg)
+![Rio Night preview](preview.png)
 
 ## Palette
 
@@ -22,6 +22,8 @@ Colors were picked from the wallpapers:
 - **Magenta** — the Catedral Metropolitana glow
 
 ## Wallpapers
+
+![Rio Night wallpapers](preview-grid.jpg)
 
 | File | Scene |
 |------|-------|
