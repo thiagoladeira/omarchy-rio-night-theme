@@ -36,7 +36,7 @@ Colors were picked from the wallpapers:
 | `rio-night-09-morro.jpg` | Hillside community streets |
 | `rio-night-10-copacabana.jpg` | Copacabana boardwalk |
 
-All wallpapers are 2752×1536.
+All wallpapers are 2752×1536 and were AI-generated.
 
 ## Installation
 
@@ -71,3 +71,9 @@ Omarchy generates every app config from `colors.toml`:
 
 Extra backgrounds can go in `~/.config/omarchy/backgrounds/rio-night/` or in
 the theme's own `backgrounds/` folder.
+
+## Credits
+
+All wallpapers in `backgrounds/` were AI-generated.
+
+> Todos os wallpapers foram gerados por IA.
